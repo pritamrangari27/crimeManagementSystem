@@ -45,6 +45,3 @@ A web-based application for managing crime records, FIRs, police stations, and u
 
 Add screenshots of your application in the `Img/` folder and reference them here.
 
-## License
-
-This project is licensed under the MIT License.
