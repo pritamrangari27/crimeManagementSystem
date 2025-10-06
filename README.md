@@ -1,4 +1,4 @@
-# crimeManagementSystem
+# CrimeManagementSystem
 
 A web-based application for managing crime records, FIRs, police stations, and user profiles. This system streamlines the process of crime reporting, analysis, and management for administrators, police, and users.
 
