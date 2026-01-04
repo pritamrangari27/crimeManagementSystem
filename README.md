@@ -41,7 +41,5 @@ A web-based application for managing crime records, FIRs, police stations, and u
 - `conn.php`: Database connection
 - `session.php`: Session management
 
-## Screenshots
 
-Add screenshots of your application in the `Img/` folder and reference them here.
 
